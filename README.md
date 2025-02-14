@@ -1,3 +1,29 @@
+# 1926 Miriam McFate Journal
+
+## Project Resources
+
+| Link | Description |  
+| ---  | ---         |  
+| https://docs.google.com/spreadsheets/d/1U3OwrqB4REQCl1Y5KeptNndcwdGUBnHlz2bKl2S-xug/edit?gid=0#gid=0 | My original McFate-Travel-Diary Google Sheet |
+|  | `main` branch deployed to Azure Static Web Apps |  
+| https://mcfate.blob.core.windows.net/1926/ | Azure blog storage URL |
+| https://mcfate.blob.core.windows.net/1926/McFate-Travel-Diary.md | Primary MD = Edited during creation of the original Google Sheet |
+
+## Running Locally
+
+```zsh
+bundle exec jekyll serve
+```
+
+## CSV Fields
+
+CSV field documentation can be found at https://collectionbuilder.github.io/cb-docs/docs/metadata/csv_metadata/#collectionbuilder-csv-metadata.  
+
+
+<p style="border: 2px solid red; padding: 1em; margin: 1em; text-align: center;">
+Everything below this marker is from previous projects.
+</p>
+
 # CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
