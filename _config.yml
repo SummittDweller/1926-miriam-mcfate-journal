@@ -18,12 +18,12 @@ source-code: https://github.com/SummittDweller/1926-miriam-mcfate-journal
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Miriam McFate Travel Journal - 1926
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Imagine traveling 2800 miles in a home-made camper with 9 occupants... nearly 100 years ago!
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "In 1926 my grandparents, Clarence and Miriam Abia McFate of rural Poweshiek County, Iowa, built a 'home' on the back of what I believe was a Model TT Ford truck, and moved the family (3 adults, 5 children and a dog) to Long Beach, California.  They traveled 2800+ miles over the span of 41 days, about 35 of those moving from camp-to-camp.  This collection is grandma's daily journal plus whatever supporting material I could dig up. <p>Be advised, this is a work-in-progress and still contains language that may be offensive to some. My grandmother meant no harm so please don't be offended; I will try my best to faithfully sanitize the language as this collection comes together."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: iowa, illinois, missouri, arkansas, texas, new mexico, arizona, california, 1926, travel
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -52,8 +52,8 @@ metadata: "McFate-Travel-Diary-CollectionBuilder-1926-Journal"
 #
 organization-name: SummittDweller.com
 organization-link: https://blog.SummittDweller.com/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: https://mcfate.blob.core.windows.net/1926/Summitt-Services-logo.png
+organization-logo-nav: https://mcfate.blob.core.windows.net/1926/Summitt-Services-logo.png
 
 ##########
 # ROBOTS EXCLUDE
