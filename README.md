@@ -5,7 +5,7 @@
 | Link | Description |  
 | ---  | ---         |  
 | https://docs.google.com/spreadsheets/d/1U3OwrqB4REQCl1Y5KeptNndcwdGUBnHlz2bKl2S-xug/edit?gid=0#gid=0 | My original McFate-Travel-Diary Google Sheet |
-|  | `main` branch deployed to Azure Static Web Apps |  
+| https://thankful-sea-06fcb2e0f.4.azurestaticapps.net/ | `main` branch deployed to Azure Static Web Apps |  
 | https://mcfate.blob.core.windows.net/1926/ | Azure blog storage URL |
 | https://mcfate.blob.core.windows.net/1926/McFate-Travel-Diary.md | Primary MD = Edited during creation of the original Google Sheet |
 
