@@ -24,45 +24,42 @@ def split_document(input_file, output_dir="output_documents"):
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
-    current_doc_lines = []
     doc_count = 0
-    filenames = []
+    frontmatter = 0
+    outfile = False
 
     for line in lines:
-        if line.startswith("## "):  # Assumes subheadings are marked with ##
-            
-            if current_doc_lines:
-                output_file = os.path.join(output_dir, f"file_{doc_count:03}.txt")
-                with open(output_file, 'w', encoding='utf-8') as outfile:
-                    outfile.writelines(current_doc_lines)
-                doc_count += 1
-                current_doc_lines = []
+        
+        if line.startswith('---'):
+            frontmatter += 1
+            continue;        # found a frontmatter marker, continue to next line
+        if frontmatter < 2:
+            continue         # not yet past the frontmatter so continue to next line
+
+        if line.startswith("## "):  # Assumes subheadings are marked with ##... make a new file
+
+            # If we have an open outfile, close it
+            if outfile:
+                outfile.close( )
+
+            # Open a new .md outfile
+            heading = line[2:].strip( )
+            filename = f"{doc_count:03}-{slugify(heading)}.md"
+            output_file = os.path.join(output_dir, filename)
+            outfile = open(output_file, 'w', encoding='utf-8')
+            doc_count += 1
             
             # New subheading/file encountered... begin with three lines of frontmatter
-            current_doc_lines.append('---  \n')
-            current_doc_lines.append('title: "' + line[2:].strip( ) + '"  \n')
-            current_doc_lines.append('---  \n')
-
-            current_doc_lines.append(line)  # Add the subheading line to the new doc
-            heading = line[2:].strip( )
-            filenames.append(f"{doc_count:03}-{slugify(heading)}.md")
-            
-        else:
-            current_doc_lines.append(line)
+            outfile.write('---  \n')
+            outfile.write('title: "' + line[2:].strip( ) + '"  \n')
+            outfile.write('---  \n')
+        
+        if outfile:
+            outfile.write(line)
     
-
     # Save the last document
-    if current_doc_lines:
-        output_file = os.path.join(output_dir, f"file_{doc_count:03}.txt")
-        with open(output_file, 'w', encoding='utf-8') as outfile:
-            outfile.writelines(current_doc_lines)
-
-    # Rename the temporary files
-    count = 0
-    for fname in filenames:
-        temp = os.path.join(output_dir, f"file_{count:03}.txt")
-        os.rename(temp, os.path.join(output_dir, fname))
-        count += 1
+    if outfile:
+        outfile.close( )
         
 
 if __name__ == "__main__":

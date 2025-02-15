@@ -7,11 +7,7 @@
     - View on Map -- if item has "latitude" and "longitude" value, links to location on map.
     - Download -- if the item has "object_location" value, adds a download button along with the item format, or if the value is a YouTube or Vimeo link adds a "View on" link.  
 
-    13-Feb-2025: If the object has an object_transcript but NO object_location (it's a transcript only object)
-      the image/icon is omitted (in item-thumb.html) and the transcript is expanded (here), not hidden.      
-
 {%- endcomment -%}
-
 <div class="btn-group" role="group" aria-label="Item options">
     {% if page.object_transcript %}<button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTranscript" aria-expanded="false" aria-controls="collapseExample">View Transcript</button>{% endif %}
     {% if page.date %}{%- capture year -%}{% if page.date contains "-" %}{{ page.date | split: "-" | first }}{% elsif page.date contains "/" %}{{ page.date | split: "/" | last }}{% else %}{{ page.date }}{% endif %}{%- endcapture -%}
@@ -22,13 +18,8 @@
         {% if page.display_template == 'video' and page.object_location contains 'vimeo' %}View on Vimeo{% elsif page.display_template == 'video' and page.object_location contains 'youtu' %}View on YouTube{% elsif page.display_template == 'record'%}Link to Object{% else %}Download {{ page.format | split: '/' | last | default: page.display_template | upcase }}{% endif %}
     </a>{% endif %}
 </div>
-
-{% if page.object_transcript and page.object_location %}
+{% if page.object_transcript %}
 <div class="collapse mt-3" id="collapseTranscript">
-{% elsif page.object_transcript %}
-<div class="mt-3">
-{% endif %}
-
     <div class="card card-body text-start">
         {% assign transcript_type = page.object_transcript | slice: 0,1 %}
         {% if transcript_type == '/' %}
@@ -40,3 +31,4 @@
         {% endif %}
     </div>
 </div>
+{% endif %} 
