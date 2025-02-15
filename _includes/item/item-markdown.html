@@ -1,9 +1,9 @@
 {% comment %}
 
-    Display the contents of the object_location file using markdownify.
+    Display the contents of object_location using markdownify.
 
 {% endcomment %}
-
+<!-- cb: _includes/item/item-markdown.html -->
 {% if page.object_location %}
   <div class="mt-3">
     <div class="card card-body text-start">
@@ -19,3 +19,4 @@
   </div>  
   <span class="visually-hidden">{{ page.title | escape }} - {{ page.format }}</span>
 {% endif %}
+<!-- /cb: _includes/item/item-markdown.html -->
