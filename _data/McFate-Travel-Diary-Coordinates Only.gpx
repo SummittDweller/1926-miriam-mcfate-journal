@@ -1,0 +1,1854 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.6.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="31.039110000000001" minlon="-118.186340000000001" maxlat="41.845849999999999" maxlon="-89.534450000000007"/></metadata>               
+<wpt lat="41.84585" lon="-92.59081">
+  <extensions>
+    <ogr:Index>1</ogr:Index>
+    <ogr:Day_Number>1</ogr:Day_Number>
+    <ogr:Date>Mon, Oct 18, 1926</ogr:Date>
+    <ogr:Where>Home</ogr:Where>
+    <ogr:Lat>41.84585</ogr:Lat>
+    <ogr:Lon>-92.59081</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.74586" lon="-92.59094">
+  <extensions>
+    <ogr:Index>2</ogr:Index>
+    <ogr:Day_Number>1</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>US Hwy 63 &amp; US 6</ogr:Where>
+    <ogr:Lat>41.74586</ogr:Lat>
+    <ogr:Lon>-92.59094</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.73164" lon="-92.29668">
+  <extensions>
+    <ogr:Index>3</ogr:Index>
+    <ogr:Day_Number>1</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Victor, IA</ogr:Where>
+    <ogr:Lat>41.73164</ogr:Lat>
+    <ogr:Lon>-92.29668</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.75536" lon="-92.18319">
+  <extensions>
+    <ogr:Index>4</ogr:Index>
+    <ogr:Day_Number>1</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Ladora, IA</ogr:Where>
+    <ogr:Lat>41.75536</ogr:Lat>
+    <ogr:Lon>-92.18319</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.75536" lon="-92.18319">
+  <extensions>
+    <ogr:Index>5</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date>Tue, Oct 19, 1926</ogr:Date>
+    <ogr:Where>Ladora, IA</ogr:Where>
+    <ogr:Lat>41.75536</ogr:Lat>
+    <ogr:Lon>-92.18319</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.78935" lon="-92.0648">
+  <extensions>
+    <ogr:Index>6</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Marengo, IA</ogr:Where>
+    <ogr:Lat>41.78935</ogr:Lat>
+    <ogr:Lon>-92.0648</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.6625" lon="-92.00772">
+  <extensions>
+    <ogr:Index>7</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Williamsburg, IA</ogr:Where>
+    <ogr:Lat>41.6625</ogr:Lat>
+    <ogr:Lon>-92.00772</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.65817" lon="-91.5421">
+  <extensions>
+    <ogr:Index>8</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Iowa City, IA</ogr:Where>
+    <ogr:Lat>41.65817</ogr:Lat>
+    <ogr:Lon>-91.5421</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.57299" lon="-91.26114">
+  <extensions>
+    <ogr:Index>9</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>West Liberty, IA</ogr:Where>
+    <ogr:Lat>41.57299</ogr:Lat>
+    <ogr:Lon>-91.26114</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.51979" lon="-90.58408">
+  <extensions>
+    <ogr:Index>10</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Davenport, IA</ogr:Where>
+    <ogr:Lat>41.51979</ogr:Lat>
+    <ogr:Lon>-90.58408</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.50844" lon="-90.50784">
+  <extensions>
+    <ogr:Index>11</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Rock Island, IL</ogr:Where>
+    <ogr:Lat>41.50844</ogr:Lat>
+    <ogr:Lon>-90.50784</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.38525" lon="-90.66839">
+  <extensions>
+    <ogr:Index>12</ogr:Index>
+    <ogr:Day_Number>2</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Farm Yard Camp</ogr:Where>
+    <ogr:Lat>41.38525</ogr:Lat>
+    <ogr:Lon>-90.66839</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.38525" lon="-90.66839">
+  <extensions>
+    <ogr:Index>13</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date>Wed, Oct 20, 1926</ogr:Date>
+    <ogr:Where>rural Illinois</ogr:Where>
+    <ogr:Lat>41.38525</ogr:Lat>
+    <ogr:Lon>-90.66839</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.19962" lon="-90.74918">
+  <extensions>
+    <ogr:Index>14</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Aledo, IL</ogr:Where>
+    <ogr:Lat>41.19962</ogr:Lat>
+    <ogr:Lon>-90.74918</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="41.06823" lon="-90.74464">
+  <extensions>
+    <ogr:Index>15</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Little York, IL</ogr:Where>
+    <ogr:Lat>41.06823</ogr:Lat>
+    <ogr:Lon>-90.74464</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.91247" lon="-90.64752">
+  <extensions>
+    <ogr:Index>16</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Monmouth, IL</ogr:Where>
+    <ogr:Lat>40.91247</ogr:Lat>
+    <ogr:Lon>-90.64752</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.91247" lon="-90.64752">
+  <extensions>
+    <ogr:Index>17</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where></ogr:Where>
+    <ogr:Lat>40.91247</ogr:Lat>
+    <ogr:Lon>-90.64752</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.55736" lon="-90.67496">
+  <extensions>
+    <ogr:Index>18</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Good Hope, IL</ogr:Where>
+    <ogr:Lat>40.55736</ogr:Lat>
+    <ogr:Lon>-90.67496</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.45942" lon="-90.67208">
+  <extensions>
+    <ogr:Index>19</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Macomb, IL</ogr:Where>
+    <ogr:Lat>40.45942</ogr:Lat>
+    <ogr:Lon>-90.67208</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.03833" lon="-90.46565">
+  <extensions>
+    <ogr:Index>20</ogr:Index>
+    <ogr:Day_Number>3</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Fredricks, IL</ogr:Where>
+    <ogr:Lat>40.03833</ogr:Lat>
+    <ogr:Lon>-90.46565</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.03833" lon="-90.46565">
+  <extensions>
+    <ogr:Index>21</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date>Thu, Oct 21, 1926</ogr:Date>
+    <ogr:Where>Fredricks, IL</ogr:Where>
+    <ogr:Lat>40.03833</ogr:Lat>
+    <ogr:Lon>-90.46565</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.12022" lon="-90.57847">
+  <extensions>
+    <ogr:Index>22</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Rushville, IL</ogr:Where>
+    <ogr:Lat>40.12022</ogr:Lat>
+    <ogr:Lon>-90.57847</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.98363" lon="-90.76533">
+  <extensions>
+    <ogr:Index>23</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Mt. Sterling, IL</ogr:Where>
+    <ogr:Lat>39.98363</ogr:Lat>
+    <ogr:Lon>-90.76533</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.02609" lon="-90.95915">
+  <extensions>
+    <ogr:Index>24</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Clayton, IL</ogr:Where>
+    <ogr:Lat>40.02609</ogr:Lat>
+    <ogr:Lon>-90.95915</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="40.03955" lon="-91.06735">
+  <extensions>
+    <ogr:Index>25</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Camp Point, IL</ogr:Where>
+    <ogr:Lat>40.03955</ogr:Lat>
+    <ogr:Lon>-91.06735</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.93321" lon="-91.40958">
+  <extensions>
+    <ogr:Index>26</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Quincy, IL</ogr:Where>
+    <ogr:Lat>39.93321</ogr:Lat>
+    <ogr:Lon>-91.40958</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.79456" lon="-91.52299">
+  <extensions>
+    <ogr:Index>27</ogr:Index>
+    <ogr:Day_Number>4</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Palmyra, MO</ogr:Where>
+    <ogr:Lat>39.79456</ogr:Lat>
+    <ogr:Lon>-91.52299</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.79456" lon="-91.52299">
+  <extensions>
+    <ogr:Index>28</ogr:Index>
+    <ogr:Day_Number>5</ogr:Day_Number>
+    <ogr:Date>Fri, Oct 22, 1926</ogr:Date>
+    <ogr:Where>Palmyra, MO</ogr:Where>
+    <ogr:Lat>39.79456</ogr:Lat>
+    <ogr:Lon>-91.52299</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.70474" lon="-91.36683">
+  <extensions>
+    <ogr:Index>29</ogr:Index>
+    <ogr:Day_Number>5</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Hanibal, MO</ogr:Where>
+    <ogr:Lat>39.70474</ogr:Lat>
+    <ogr:Lon>-91.36683</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.58258" lon="-91.40645">
+  <extensions>
+    <ogr:Index>30</ogr:Index>
+    <ogr:Day_Number>5</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>New London, MO</ogr:Where>
+    <ogr:Lat>39.58258</ogr:Lat>
+    <ogr:Lon>-91.40645</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.49315" lon="-91.32044">
+  <extensions>
+    <ogr:Index>31</ogr:Index>
+    <ogr:Day_Number>5</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Frankford, MO</ogr:Where>
+    <ogr:Lat>39.49315</ogr:Lat>
+    <ogr:Lon>-91.32044</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.45372" lon="-91.05259">
+  <extensions>
+    <ogr:Index>32</ogr:Index>
+    <ogr:Day_Number>5</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Louisianna, MO</ogr:Where>
+    <ogr:Lat>39.45372</ogr:Lat>
+    <ogr:Lon>-91.05259</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.39477" lon="-91.11459">
+  <extensions>
+    <ogr:Index>33</ogr:Index>
+    <ogr:Day_Number>5</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Campground</ogr:Where>
+    <ogr:Lat>39.39477</ogr:Lat>
+    <ogr:Lon>-91.11459</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.39477" lon="-91.11459">
+  <extensions>
+    <ogr:Index>34</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date>Sat, Oct 23, 1926</ogr:Date>
+    <ogr:Where>near Louisanna, MO</ogr:Where>
+    <ogr:Lat>39.39477</ogr:Lat>
+    <ogr:Lon>-91.11459</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.45372" lon="-91.05259">
+  <extensions>
+    <ogr:Index>35</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Louisianna, MO</ogr:Where>
+    <ogr:Lat>39.45372</ogr:Lat>
+    <ogr:Lon>-91.05259</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.23288" lon="-91.00946">
+  <extensions>
+    <ogr:Index>36</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Eolia, MO</ogr:Where>
+    <ogr:Lat>39.23288</ogr:Lat>
+    <ogr:Lon>-91.00946</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="39.02156" lon="-90.9793">
+  <extensions>
+    <ogr:Index>37</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Troy, MO</ogr:Where>
+    <ogr:Lat>39.02156</ogr:Lat>
+    <ogr:Lon>-90.9793</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.98362" lon="-90.9806">
+  <extensions>
+    <ogr:Index>38</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Troy, MO</ogr:Where>
+    <ogr:Lat>38.98362</ogr:Lat>
+    <ogr:Lon>-90.9806</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.94705" lon="-90.92283">
+  <extensions>
+    <ogr:Index>39</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Moscow, MO</ogr:Where>
+    <ogr:Lat>38.94705</ogr:Lat>
+    <ogr:Lon>-90.92283</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.92944" lon="-90.75095">
+  <extensions>
+    <ogr:Index>40</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Old Monroe, MO</ogr:Where>
+    <ogr:Lat>38.92944</ogr:Lat>
+    <ogr:Lon>-90.75095</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.74725" lon="-90.53313">
+  <extensions>
+    <ogr:Index>41</ogr:Index>
+    <ogr:Day_Number>6</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>St. Charles, MO</ogr:Where>
+    <ogr:Lat>38.74725</ogr:Lat>
+    <ogr:Lon>-90.53313</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.74725" lon="-90.53313">
+  <extensions>
+    <ogr:Index>42</ogr:Index>
+    <ogr:Day_Number>7</ogr:Day_Number>
+    <ogr:Date>Sun, Oct 24, 1926</ogr:Date>
+    <ogr:Where>St. Charles, MO</ogr:Where>
+    <ogr:Lat>38.74725</ogr:Lat>
+    <ogr:Lon>-90.53313</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>43</ogr:Index>
+    <ogr:Day_Number>7</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>44</ogr:Index>
+    <ogr:Day_Number>8</ogr:Day_Number>
+    <ogr:Date>Mon, Oct 25, 1926</ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>45</ogr:Index>
+    <ogr:Day_Number>9</ogr:Day_Number>
+    <ogr:Date>Tue, Oct 26, 1926</ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>46</ogr:Index>
+    <ogr:Day_Number>10</ogr:Day_Number>
+    <ogr:Date>Wed, Oct 27, 1926</ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>47</ogr:Index>
+    <ogr:Day_Number>11</ogr:Day_Number>
+    <ogr:Date>Thu, Oct 28, 1926</ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>48</ogr:Index>
+    <ogr:Day_Number>12</ogr:Day_Number>
+    <ogr:Date>Fri, Oct 29, 1926</ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="38.70519" lon="-90.29858">
+  <extensions>
+    <ogr:Index>49</ogr:Index>
+    <ogr:Day_Number>13</ogr:Day_Number>
+    <ogr:Date>Sat, Oct 30, 1926</ogr:Date>
+    <ogr:Where>St. Louis, MO</ogr:Where>
+    <ogr:Lat>38.70519</ogr:Lat>
+    <ogr:Lon>-90.29858</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.98666" lon="-90.53034">
+  <extensions>
+    <ogr:Index>50</ogr:Index>
+    <ogr:Day_Number>13</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Bonne Terre, MO</ogr:Where>
+    <ogr:Lat>37.98666</ogr:Lat>
+    <ogr:Lon>-90.53034</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.76084" lon="-90.4461">
+  <extensions>
+    <ogr:Index>51</ogr:Index>
+    <ogr:Day_Number>13</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>rural Missouri</ogr:Where>
+    <ogr:Lat>37.76084</ogr:Lat>
+    <ogr:Lon>-90.4461</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.76084" lon="-90.4461">
+  <extensions>
+    <ogr:Index>52</ogr:Index>
+    <ogr:Day_Number>14</ogr:Day_Number>
+    <ogr:Date>Sun, Oct 31, 1926</ogr:Date>
+    <ogr:Where>rural Missouri</ogr:Where>
+    <ogr:Lat>37.76084</ogr:Lat>
+    <ogr:Lon>-90.4461</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.57028" lon="-90.31807">
+  <extensions>
+    <ogr:Index>53</ogr:Index>
+    <ogr:Day_Number>14</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Fredericktown, MO</ogr:Where>
+    <ogr:Lat>37.57028</ogr:Lat>
+    <ogr:Lon>-90.31807</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.57028" lon="-90.31807">
+  <extensions>
+    <ogr:Index>54</ogr:Index>
+    <ogr:Day_Number>14</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>rural Missouri</ogr:Where>
+    <ogr:Lat>37.57028</ogr:Lat>
+    <ogr:Lon>-90.31807</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.57028" lon="-90.31807">
+  <extensions>
+    <ogr:Index>55</ogr:Index>
+    <ogr:Day_Number>15</ogr:Day_Number>
+    <ogr:Date>Mon, Nov 1, 1926</ogr:Date>
+    <ogr:Where>rural Missouri</ogr:Where>
+    <ogr:Lat>37.57028</ogr:Lat>
+    <ogr:Lon>-90.31807</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.42747" lon="-89.78394">
+  <extensions>
+    <ogr:Index>56</ogr:Index>
+    <ogr:Day_Number>15</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Millersville, MO</ogr:Where>
+    <ogr:Lat>37.42747</ogr:Lat>
+    <ogr:Lon>-89.78394</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.42747" lon="-89.78394">
+  <extensions>
+    <ogr:Index>57</ogr:Index>
+    <ogr:Day_Number>16</ogr:Day_Number>
+    <ogr:Date>Tue, Nov 2, 1926</ogr:Date>
+    <ogr:Where>Millersville, MO</ogr:Where>
+    <ogr:Lat>37.42747</ogr:Lat>
+    <ogr:Lon>-89.78394</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.3813" lon="-89.66765">
+  <extensions>
+    <ogr:Index>58</ogr:Index>
+    <ogr:Day_Number>16</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Jackson, MO</ogr:Where>
+    <ogr:Lat>37.3813</ogr:Lat>
+    <ogr:Lon>-89.66765</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="37.30709" lon="-89.55174">
+  <extensions>
+    <ogr:Index>59</ogr:Index>
+    <ogr:Day_Number>16</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Cape Giradeau, MO</ogr:Where>
+    <ogr:Lat>37.30709</ogr:Lat>
+    <ogr:Lon>-89.55174</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="36.59081" lon="-89.53445">
+  <extensions>
+    <ogr:Index>60</ogr:Index>
+    <ogr:Day_Number>16</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>New Madrid, MO</ogr:Where>
+    <ogr:Lat>36.59081</ogr:Lat>
+    <ogr:Lon>-89.53445</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="36.59081" lon="-89.53445">
+  <extensions>
+    <ogr:Index>61</ogr:Index>
+    <ogr:Day_Number>17</ogr:Day_Number>
+    <ogr:Date>Wed, Nov 3, 1926</ogr:Date>
+    <ogr:Where>New Madrid, MO</ogr:Where>
+    <ogr:Lat>36.59081</ogr:Lat>
+    <ogr:Lon>-89.53445</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="36.59081" lon="-89.53445">
+  <extensions>
+    <ogr:Index>62</ogr:Index>
+    <ogr:Day_Number>18</ogr:Day_Number>
+    <ogr:Date>Thu, Nov 4, 1926</ogr:Date>
+    <ogr:Where>New Madrid, MO</ogr:Where>
+    <ogr:Lat>36.59081</ogr:Lat>
+    <ogr:Lon>-89.53445</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="36.59081" lon="-89.53445">
+  <extensions>
+    <ogr:Index>63</ogr:Index>
+    <ogr:Day_Number>19</ogr:Day_Number>
+    <ogr:Date>Fri, Nov 5, 1926</ogr:Date>
+    <ogr:Where>New Madrid, MO</ogr:Where>
+    <ogr:Lat>36.59081</ogr:Lat>
+    <ogr:Lon>-89.53445</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="36.595" lon="-89.5345">
+  <extensions>
+    <ogr:Index>64</ogr:Index>
+    <ogr:Day_Number>19</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where></ogr:Where>
+    <ogr:Lat>36.595</ogr:Lat>
+    <ogr:Lon>-89.5345</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="36.00096" lon="-89.88038">
+  <extensions>
+    <ogr:Index>65</ogr:Index>
+    <ogr:Day_Number>19</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where></ogr:Where>
+    <ogr:Lat>36.00096</ogr:Lat>
+    <ogr:Lon>-89.88038</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.69948" lon="-89.96334">
+  <extensions>
+    <ogr:Index>66</ogr:Index>
+    <ogr:Day_Number>19</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Osceola, AR</ogr:Where>
+    <ogr:Lat>35.69948</ogr:Lat>
+    <ogr:Lon>-89.96334</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.69948" lon="-89.96334">
+  <extensions>
+    <ogr:Index>67</ogr:Index>
+    <ogr:Day_Number>20</ogr:Day_Number>
+    <ogr:Date>Sat, Nov 6, 1926</ogr:Date>
+    <ogr:Where>Osceola, AR</ogr:Where>
+    <ogr:Lat>35.69948</ogr:Lat>
+    <ogr:Lon>-89.96334</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.37748" lon="-90.25717">
+  <extensions>
+    <ogr:Index>68</ogr:Index>
+    <ogr:Day_Number>20</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Turrell, AR</ogr:Where>
+    <ogr:Lat>35.37748</ogr:Lat>
+    <ogr:Lon>-90.25717</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.27277" lon="-90.46544">
+  <extensions>
+    <ogr:Index>69</ogr:Index>
+    <ogr:Day_Number>20</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Earle, AR</ogr:Where>
+    <ogr:Lat>35.27277</ogr:Lat>
+    <ogr:Lon>-90.46544</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.26092" lon="-90.52316">
+  <extensions>
+    <ogr:Index>70</ogr:Index>
+    <ogr:Day_Number>20</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Smithdale, AR</ogr:Where>
+    <ogr:Lat>35.26092</ogr:Lat>
+    <ogr:Lon>-90.52316</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.26092" lon="-90.52316">
+  <extensions>
+    <ogr:Index>71</ogr:Index>
+    <ogr:Day_Number>21</ogr:Day_Number>
+    <ogr:Date>Sun, Nov 7, 1926</ogr:Date>
+    <ogr:Where>Smithdale, AR</ogr:Where>
+    <ogr:Lat>35.26092</ogr:Lat>
+    <ogr:Lon>-90.52316</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="35.01455" lon="-90.78986">
+  <extensions>
+    <ogr:Index>72</ogr:Index>
+    <ogr:Day_Number>21</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Forrest City, AR</ogr:Where>
+    <ogr:Lat>35.01455</ogr:Lat>
+    <ogr:Lon>-90.78986</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.96969" lon="-90.90711">
+  <extensions>
+    <ogr:Index>73</ogr:Index>
+    <ogr:Day_Number>21</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Palestine, AR</ogr:Where>
+    <ogr:Lat>34.96969</ogr:Lat>
+    <ogr:Lon>-90.90711</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.91339" lon="-91.10915">
+  <extensions>
+    <ogr:Index>74</ogr:Index>
+    <ogr:Day_Number>21</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Wheatley, AR</ogr:Where>
+    <ogr:Lat>34.91339</ogr:Lat>
+    <ogr:Lon>-91.10915</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.83326" lon="-91.37841">
+  <extensions>
+    <ogr:Index>75</ogr:Index>
+    <ogr:Day_Number>21</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Brasfield, AR</ogr:Where>
+    <ogr:Lat>34.83326</ogr:Lat>
+    <ogr:Lon>-91.37841</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.77263" lon="-92.2081">
+  <extensions>
+    <ogr:Index>76</ogr:Index>
+    <ogr:Day_Number>21</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Little Rock, AR</ogr:Where>
+    <ogr:Lat>34.77263</ogr:Lat>
+    <ogr:Lon>-92.2081</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.77263" lon="-92.2081">
+  <extensions>
+    <ogr:Index>77</ogr:Index>
+    <ogr:Day_Number>22</ogr:Day_Number>
+    <ogr:Date>Mon, Nov 8, 1926</ogr:Date>
+    <ogr:Where>Little Rock, AR</ogr:Where>
+    <ogr:Lat>34.77263</ogr:Lat>
+    <ogr:Lon>-92.2081</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.57238" lon="-92.58565">
+  <extensions>
+    <ogr:Index>78</ogr:Index>
+    <ogr:Day_Number>22</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Benton, AR</ogr:Where>
+    <ogr:Lat>34.57238</ogr:Lat>
+    <ogr:Lon>-92.58565</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.49534" lon="-93.07373">
+  <extensions>
+    <ogr:Index>79</ogr:Index>
+    <ogr:Day_Number>22</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Hot Springs, AR</ogr:Where>
+    <ogr:Lat>34.49534</ogr:Lat>
+    <ogr:Lon>-93.07373</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.12231" lon="-93.07322">
+  <extensions>
+    <ogr:Index>80</ogr:Index>
+    <ogr:Day_Number>22</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Arkadelphia, AR</ogr:Where>
+    <ogr:Lat>34.12231</ogr:Lat>
+    <ogr:Lon>-93.07322</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="34.12231" lon="-93.07322">
+  <extensions>
+    <ogr:Index>81</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date>Tue, Nov 9, 1926</ogr:Date>
+    <ogr:Where>Arkadelphia, AR</ogr:Where>
+    <ogr:Lat>34.12231</ogr:Lat>
+    <ogr:Lon>-93.07322</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.99773" lon="-93.10604">
+  <extensions>
+    <ogr:Index>82</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Curtis, AR</ogr:Where>
+    <ogr:Lat>33.99773</ogr:Lat>
+    <ogr:Lon>-93.10604</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.94275" lon="-93.13025">
+  <extensions>
+    <ogr:Index>83</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Smithton, AR</ogr:Where>
+    <ogr:Lat>33.94275</ogr:Lat>
+    <ogr:Lon>-93.13025</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.91912" lon="-93.15165">
+  <extensions>
+    <ogr:Index>84</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Gurdon, AR</ogr:Where>
+    <ogr:Lat>33.91912</ogr:Lat>
+    <ogr:Lon>-93.15165</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.80317" lon="-93.3835">
+  <extensions>
+    <ogr:Index>85</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Prescott, AR</ogr:Where>
+    <ogr:Lat>33.80317</ogr:Lat>
+    <ogr:Lon>-93.3835</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.66552" lon="-93.59399">
+  <extensions>
+    <ogr:Index>86</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Hope, AR</ogr:Where>
+    <ogr:Lat>33.66552</ogr:Lat>
+    <ogr:Lon>-93.59399</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.4333" lon="-94.05068">
+  <extensions>
+    <ogr:Index>87</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Texarkana, AR</ogr:Where>
+    <ogr:Lat>33.4333</ogr:Lat>
+    <ogr:Lon>-94.05068</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.46131" lon="-94.41474">
+  <extensions>
+    <ogr:Index>88</ogr:Index>
+    <ogr:Day_Number>23</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>New Boston, TX</ogr:Where>
+    <ogr:Lat>33.46131</ogr:Lat>
+    <ogr:Lon>-94.41474</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.46131" lon="-94.41474">
+  <extensions>
+    <ogr:Index>89</ogr:Index>
+    <ogr:Day_Number>24</ogr:Day_Number>
+    <ogr:Date>Wed, Nov 10, 1926</ogr:Date>
+    <ogr:Where>New Boston, TX</ogr:Where>
+    <ogr:Lat>33.46131</ogr:Lat>
+    <ogr:Lon>-94.41474</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.66401" lon="-95.26712">
+  <extensions>
+    <ogr:Index>90</ogr:Index>
+    <ogr:Day_Number>24</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Detroit, TX</ogr:Where>
+    <ogr:Lat>33.66401</ogr:Lat>
+    <ogr:Lon>-95.26712</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.65903" lon="-95.56317">
+  <extensions>
+    <ogr:Index>91</ogr:Index>
+    <ogr:Day_Number>24</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Paris, TX</ogr:Where>
+    <ogr:Lat>33.65903</ogr:Lat>
+    <ogr:Lon>-95.56317</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.24853" lon="-95.90559">
+  <extensions>
+    <ogr:Index>92</ogr:Index>
+    <ogr:Day_Number>24</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Commerce, TX</ogr:Where>
+    <ogr:Lat>33.24853</ogr:Lat>
+    <ogr:Lon>-95.90559</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.24853" lon="-95.90559">
+  <extensions>
+    <ogr:Index>93</ogr:Index>
+    <ogr:Day_Number>25</ogr:Day_Number>
+    <ogr:Date>Thu, Nov 11, 1926</ogr:Date>
+    <ogr:Where>Commerce, TX</ogr:Where>
+    <ogr:Lat>33.24853</ogr:Lat>
+    <ogr:Lon>-95.90559</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.12917" lon="-96.10712">
+  <extensions>
+    <ogr:Index>94</ogr:Index>
+    <ogr:Day_Number>25</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Greenville, TX</ogr:Where>
+    <ogr:Lat>33.12917</ogr:Lat>
+    <ogr:Lon>-96.10712</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.92735" lon="-96.46385">
+  <extensions>
+    <ogr:Index>95</ogr:Index>
+    <ogr:Day_Number>25</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Rockwall, TX</ogr:Where>
+    <ogr:Lat>32.92735</ogr:Lat>
+    <ogr:Lon>-96.46385</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.78017" lon="-96.80161">
+  <extensions>
+    <ogr:Index>96</ogr:Index>
+    <ogr:Day_Number>25</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Dallas, TX</ogr:Where>
+    <ogr:Lat>32.78017</ogr:Lat>
+    <ogr:Lon>-96.80161</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.74753" lon="-97.32048">
+  <extensions>
+    <ogr:Index>97</ogr:Index>
+    <ogr:Day_Number>25</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Fort Worth, TX</ogr:Where>
+    <ogr:Lat>32.74753</ogr:Lat>
+    <ogr:Lon>-97.32048</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.73493" lon="-97.42198">
+  <extensions>
+    <ogr:Index>98</ogr:Index>
+    <ogr:Day_Number>25</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>outside Fort Worth, TX</ogr:Where>
+    <ogr:Lat>32.73493</ogr:Lat>
+    <ogr:Lon>-97.42198</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.73493" lon="-97.42198">
+  <extensions>
+    <ogr:Index>99</ogr:Index>
+    <ogr:Day_Number>26</ogr:Day_Number>
+    <ogr:Date>Fri, Nov 12, 1926</ogr:Date>
+    <ogr:Where>outside Fort Worth, TX</ogr:Where>
+    <ogr:Lat>32.73493</ogr:Lat>
+    <ogr:Lon>-97.42198</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.75641" lon="-97.80192">
+  <extensions>
+    <ogr:Index>100</ogr:Index>
+    <ogr:Day_Number>26</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Weatherford, TX</ogr:Where>
+    <ogr:Lat>32.75641</ogr:Lat>
+    <ogr:Lon>-97.80192</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.8054" lon="-98.10261">
+  <extensions>
+    <ogr:Index>101</ogr:Index>
+    <ogr:Day_Number>26</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Mineral Wells, TX</ogr:Where>
+    <ogr:Lat>32.8054</ogr:Lat>
+    <ogr:Lon>-98.10261</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.47386" lon="-98.68259">
+  <extensions>
+    <ogr:Index>102</ogr:Index>
+    <ogr:Day_Number>26</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Ranger, TX</ogr:Where>
+    <ogr:Lat>32.47386</ogr:Lat>
+    <ogr:Lon>-98.68259</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.40136" lon="-98.82391">
+  <extensions>
+    <ogr:Index>103</ogr:Index>
+    <ogr:Day_Number>26</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Eastland, TX</ogr:Where>
+    <ogr:Lat>32.40136</ogr:Lat>
+    <ogr:Lon>-98.82391</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.40136" lon="-98.82391">
+  <extensions>
+    <ogr:Index>104</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date>Sat, Nov 13, 1926</ogr:Date>
+    <ogr:Where>Eastland, TX</ogr:Where>
+    <ogr:Lat>32.40136</ogr:Lat>
+    <ogr:Lon>-98.82391</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.38641" lon="-98.98345">
+  <extensions>
+    <ogr:Index>105</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Cisco, TX</ogr:Where>
+    <ogr:Lat>32.38641</ogr:Lat>
+    <ogr:Lon>-98.98345</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.39377" lon="-99.39099">
+  <extensions>
+    <ogr:Index>106</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Baird, TX</ogr:Where>
+    <ogr:Lat>32.39377</ogr:Lat>
+    <ogr:Lon>-99.39099</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.40943" lon="-99.4944">
+  <extensions>
+    <ogr:Index>107</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Clyde, TX</ogr:Where>
+    <ogr:Lat>32.40943</ogr:Lat>
+    <ogr:Lon>-99.4944</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.47869" lon="-99.7425">
+  <extensions>
+    <ogr:Index>108</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Abilene, TX</ogr:Where>
+    <ogr:Lat>32.47869</ogr:Lat>
+    <ogr:Lon>-99.7425</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.47262" lon="-100.01445">
+  <extensions>
+    <ogr:Index>109</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Merkel, TX</ogr:Where>
+    <ogr:Lat>32.47262</ogr:Lat>
+    <ogr:Lon>-100.01445</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.48872" lon="-100.12325">
+  <extensions>
+    <ogr:Index>110</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Trent, TX</ogr:Where>
+    <ogr:Lat>32.48872</ogr:Lat>
+    <ogr:Lon>-100.12325</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.49141" lon="-100.29732">
+  <extensions>
+    <ogr:Index>111</ogr:Index>
+    <ogr:Day_Number>27</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Sweetwater, TX</ogr:Where>
+    <ogr:Lat>32.49141</ogr:Lat>
+    <ogr:Lon>-100.29732</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.49141" lon="-100.29732">
+  <extensions>
+    <ogr:Index>112</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date>Sun, Nov 14, 1926</ogr:Date>
+    <ogr:Where>Sweetwater, TX</ogr:Where>
+    <ogr:Lat>32.49141</ogr:Lat>
+    <ogr:Lon>-100.29732</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.46926" lon="-100.40571">
+  <extensions>
+    <ogr:Index>113</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Sweetwater, TX</ogr:Where>
+    <ogr:Lat>32.46926</ogr:Lat>
+    <ogr:Lon>-100.40571</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.44791" lon="-100.53921">
+  <extensions>
+    <ogr:Index>114</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Roscoe, TX</ogr:Where>
+    <ogr:Lat>32.44791</ogr:Lat>
+    <ogr:Lon>-100.53921</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.39283" lon="-100.86476">
+  <extensions>
+    <ogr:Index>115</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Colorado City, TX</ogr:Where>
+    <ogr:Lat>32.39283</ogr:Lat>
+    <ogr:Lon>-100.86476</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.35588" lon="-101.01288">
+  <extensions>
+    <ogr:Index>116</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Westbrook, TX</ogr:Where>
+    <ogr:Lat>32.35588</ogr:Lat>
+    <ogr:Lon>-101.01288</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.29613" lon="-101.30247">
+  <extensions>
+    <ogr:Index>117</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Coahoma, TX</ogr:Where>
+    <ogr:Lat>32.29613</ogr:Lat>
+    <ogr:Lon>-101.30247</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.24961" lon="-101.47022">
+  <extensions>
+    <ogr:Index>118</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Big Springs, TX</ogr:Where>
+    <ogr:Lat>32.24961</ogr:Lat>
+    <ogr:Lon>-101.47022</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.13003" lon="-101.79424">
+  <extensions>
+    <ogr:Index>119</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Stanton, TX</ogr:Where>
+    <ogr:Lat>32.13003</ogr:Lat>
+    <ogr:Lon>-101.79424</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.96308" lon="-102.13529">
+  <extensions>
+    <ogr:Index>120</ogr:Index>
+    <ogr:Day_Number>28</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Midland, TX</ogr:Where>
+    <ogr:Lat>31.96308</ogr:Lat>
+    <ogr:Lon>-102.13529</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.96308" lon="-102.13529">
+  <extensions>
+    <ogr:Index>121</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date>Mon, Nov 15, 1926</ogr:Date>
+    <ogr:Where>Midland, TX</ogr:Where>
+    <ogr:Lat>31.96308</ogr:Lat>
+    <ogr:Lon>-102.13529</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.81197" lon="-102.43075">
+  <extensions>
+    <ogr:Index>122</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Odessa, TX</ogr:Where>
+    <ogr:Lat>31.81197</ogr:Lat>
+    <ogr:Lon>-102.43075</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.58103" lon="-102.89881">
+  <extensions>
+    <ogr:Index>123</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Monahans, TX</ogr:Where>
+    <ogr:Lat>31.58103</ogr:Lat>
+    <ogr:Lon>-102.89881</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.53598" lon="-103.12458">
+  <extensions>
+    <ogr:Index>124</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Pyote, TX</ogr:Where>
+    <ogr:Lat>31.53598</ogr:Lat>
+    <ogr:Lon>-103.12458</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.46019" lon="-103.39354">
+  <extensions>
+    <ogr:Index>125</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Barstow, TX</ogr:Where>
+    <ogr:Lat>31.46019</ogr:Lat>
+    <ogr:Lon>-103.39354</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.42002" lon="-103.49709">
+  <extensions>
+    <ogr:Index>126</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Pecos, TX</ogr:Where>
+    <ogr:Lat>31.42002</ogr:Lat>
+    <ogr:Lon>-103.49709</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.31308" lon="-103.78715">
+  <extensions>
+    <ogr:Index>127</ogr:Index>
+    <ogr:Day_Number>29</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Toyah, TX</ogr:Where>
+    <ogr:Lat>31.31308</ogr:Lat>
+    <ogr:Lon>-103.78715</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.31308" lon="-103.78715">
+  <extensions>
+    <ogr:Index>128</ogr:Index>
+    <ogr:Day_Number>30</ogr:Day_Number>
+    <ogr:Date>Tue, Nov 16, 1926</ogr:Date>
+    <ogr:Where>Toyah, TX</ogr:Where>
+    <ogr:Lat>31.31308</ogr:Lat>
+    <ogr:Lon>-103.78715</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.0687" lon="-104.21718">
+  <extensions>
+    <ogr:Index>129</ogr:Index>
+    <ogr:Day_Number>30</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Kent, TX</ogr:Where>
+    <ogr:Lat>31.0687</ogr:Lat>
+    <ogr:Lon>-104.21718</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.03911" lon="-104.83267">
+  <extensions>
+    <ogr:Index>130</ogr:Index>
+    <ogr:Day_Number>30</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Vanhorn, TX</ogr:Where>
+    <ogr:Lat>31.03911</ogr:Lat>
+    <ogr:Lon>-104.83267</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.17569" lon="-105.35863">
+  <extensions>
+    <ogr:Index>131</ogr:Index>
+    <ogr:Day_Number>30</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Sierre Blanca, TX</ogr:Where>
+    <ogr:Lat>31.17569</ogr:Lat>
+    <ogr:Lon>-105.35863</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.17569" lon="-105.35863">
+  <extensions>
+    <ogr:Index>132</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date>Wed, Nov 17, 1926</ogr:Date>
+    <ogr:Where>Sierre Blanca, TX</ogr:Where>
+    <ogr:Lat>31.17569</ogr:Lat>
+    <ogr:Lon>-105.35863</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.17389" lon="-105.62832">
+  <extensions>
+    <ogr:Index>133</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Finley, TX</ogr:Where>
+    <ogr:Lat>31.17389</ogr:Lat>
+    <ogr:Lon>-105.62832</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.29084" lon="-105.84884">
+  <extensions>
+    <ogr:Index>134</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Fort Hancock, TX</ogr:Where>
+    <ogr:Lat>31.29084</ogr:Lat>
+    <ogr:Lon>-105.84884</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.44447" lon="-106.08845">
+  <extensions>
+    <ogr:Index>135</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Tornillo, TX</ogr:Where>
+    <ogr:Lat>31.44447</ogr:Lat>
+    <ogr:Lon>-106.08845</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.50376" lon="-106.15738">
+  <extensions>
+    <ogr:Index>136</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Fabena, TX</ogr:Where>
+    <ogr:Lat>31.50376</ogr:Lat>
+    <ogr:Lon>-106.15738</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.63562" lon="-106.27721">
+  <extensions>
+    <ogr:Index>137</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Ylesta, TX</ogr:Where>
+    <ogr:Lat>31.63562</ogr:Lat>
+    <ogr:Lon>-106.27721</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.76692" lon="-106.46848">
+  <extensions>
+    <ogr:Index>138</ogr:Index>
+    <ogr:Day_Number>31</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>El Paso, TX</ogr:Where>
+    <ogr:Lat>31.76692</ogr:Lat>
+    <ogr:Lon>-106.46848</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="31.76692" lon="-106.46848">
+  <extensions>
+    <ogr:Index>139</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date>Thu, Nov 18, 1926</ogr:Date>
+    <ogr:Where>El Paso, TX</ogr:Where>
+    <ogr:Lat>31.76692</ogr:Lat>
+    <ogr:Lon>-106.46848</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.00198" lon="-106.60549">
+  <extensions>
+    <ogr:Index>140</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Anthony, TX</ogr:Where>
+    <ogr:Lat>32.00198</ogr:Lat>
+    <ogr:Lon>-106.60549</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.16329" lon="-106.69481">
+  <extensions>
+    <ogr:Index>141</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Mesquite, NM</ogr:Where>
+    <ogr:Lat>32.16329</ogr:Lat>
+    <ogr:Lon>-106.69481</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.27709" lon="-106.76836">
+  <extensions>
+    <ogr:Index>142</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Misilla Park, NM</ogr:Where>
+    <ogr:Lat>32.27709</ogr:Lat>
+    <ogr:Lon>-106.76836</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.15315" lon="-107.12724">
+  <extensions>
+    <ogr:Index>143</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Aden, NM</ogr:Where>
+    <ogr:Lat>32.15315</ogr:Lat>
+    <ogr:Lon>-107.12724</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.22531" lon="-107.31814">
+  <extensions>
+    <ogr:Index>144</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Cambray, NM</ogr:Where>
+    <ogr:Lat>32.22531</ogr:Lat>
+    <ogr:Lon>-107.31814</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.266" lon="-107.7583">
+  <extensions>
+    <ogr:Index>145</ogr:Index>
+    <ogr:Day_Number>32</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Deming, NM</ogr:Where>
+    <ogr:Lat>32.266</ogr:Lat>
+    <ogr:Lon>-107.7583</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.266" lon="-107.7583">
+  <extensions>
+    <ogr:Index>146</ogr:Index>
+    <ogr:Day_Number>33</ogr:Day_Number>
+    <ogr:Date>Fri, Nov 19, 1926</ogr:Date>
+    <ogr:Where>Deming, NM</ogr:Where>
+    <ogr:Lat>32.266</ogr:Lat>
+    <ogr:Lon>-107.7583</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.34952" lon="-108.70892">
+  <extensions>
+    <ogr:Index>147</ogr:Index>
+    <ogr:Day_Number>33</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Lordsburg, NM</ogr:Where>
+    <ogr:Lat>32.34952</ogr:Lat>
+    <ogr:Lon>-108.70892</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.71514" lon="-109.1006">
+  <extensions>
+    <ogr:Index>148</ogr:Index>
+    <ogr:Day_Number>33</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Duncan, AZ</ogr:Where>
+    <ogr:Lat>32.71514</ogr:Lat>
+    <ogr:Lon>-109.1006</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.71514" lon="-109.1006">
+  <extensions>
+    <ogr:Index>149</ogr:Index>
+    <ogr:Day_Number>34</ogr:Day_Number>
+    <ogr:Date>Sat, Nov 20, 1926</ogr:Date>
+    <ogr:Where>Duncan, AZ</ogr:Where>
+    <ogr:Lat>32.71514</ogr:Lat>
+    <ogr:Lon>-109.1006</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.81451" lon="-109.63071">
+  <extensions>
+    <ogr:Index>150</ogr:Index>
+    <ogr:Day_Number>34</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Solomon, AZ</ogr:Where>
+    <ogr:Lat>32.81451</ogr:Lat>
+    <ogr:Lon>-109.63071</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.83285" lon="-109.71554">
+  <extensions>
+    <ogr:Index>151</ogr:Index>
+    <ogr:Day_Number>34</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Safford, AZ</ogr:Where>
+    <ogr:Lat>32.83285</ogr:Lat>
+    <ogr:Lon>-109.71554</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.8963" lon="-109.82982">
+  <extensions>
+    <ogr:Index>152</ogr:Index>
+    <ogr:Day_Number>34</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Pima, AZ</ogr:Where>
+    <ogr:Lat>32.8963</ogr:Lat>
+    <ogr:Lon>-109.82982</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.27786" lon="-110.33174">
+  <extensions>
+    <ogr:Index>153</ogr:Index>
+    <ogr:Day_Number>34</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Rice, AZ</ogr:Where>
+    <ogr:Lat>33.27786</ogr:Lat>
+    <ogr:Lon>-110.33174</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.27786" lon="-110.33174">
+  <extensions>
+    <ogr:Index>154</ogr:Index>
+    <ogr:Day_Number>35</ogr:Day_Number>
+    <ogr:Date>Sun, Nov 21, 1926</ogr:Date>
+    <ogr:Where>Rice, AZ</ogr:Where>
+    <ogr:Lat>33.27786</ogr:Lat>
+    <ogr:Lon>-110.33174</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.39606" lon="-110.78829">
+  <extensions>
+    <ogr:Index>155</ogr:Index>
+    <ogr:Day_Number>35</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Globe, AZ</ogr:Where>
+    <ogr:Lat>33.39606</ogr:Lat>
+    <ogr:Lon>-110.78829</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.39939" lon="-110.8709">
+  <extensions>
+    <ogr:Index>156</ogr:Index>
+    <ogr:Day_Number>35</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Miami, AZ</ogr:Where>
+    <ogr:Lat>33.39939</ogr:Lat>
+    <ogr:Lon>-110.8709</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.29508" lon="-111.09946">
+  <extensions>
+    <ogr:Index>157</ogr:Index>
+    <ogr:Day_Number>35</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Superior, AZ</ogr:Where>
+    <ogr:Lat>33.29508</ogr:Lat>
+    <ogr:Lon>-111.09946</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.38511" lon="-111.68497">
+  <extensions>
+    <ogr:Index>158</ogr:Index>
+    <ogr:Day_Number>35</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Superstitious Springs, AZ</ogr:Where>
+    <ogr:Lat>33.38511</ogr:Lat>
+    <ogr:Lon>-111.68497</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.38511" lon="-111.68497">
+  <extensions>
+    <ogr:Index>159</ogr:Index>
+    <ogr:Day_Number>36</ogr:Day_Number>
+    <ogr:Date>Mon, Nov 22, 1926</ogr:Date>
+    <ogr:Where>Superstitious Springs, AZ</ogr:Where>
+    <ogr:Lat>33.38511</ogr:Lat>
+    <ogr:Lon>-111.68497</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.41728" lon="-111.83144">
+  <extensions>
+    <ogr:Index>160</ogr:Index>
+    <ogr:Day_Number>36</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Mesa, AZ</ogr:Where>
+    <ogr:Lat>33.41728</ogr:Lat>
+    <ogr:Lon>-111.83144</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.4255" lon="-111.93847">
+  <extensions>
+    <ogr:Index>161</ogr:Index>
+    <ogr:Day_Number>36</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Tempe, AZ</ogr:Where>
+    <ogr:Lat>33.4255</ogr:Lat>
+    <ogr:Lon>-111.93847</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.44825" lon="-112.07662">
+  <extensions>
+    <ogr:Index>162</ogr:Index>
+    <ogr:Day_Number>36</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Phoenix, AZ</ogr:Where>
+    <ogr:Lat>33.44825</ogr:Lat>
+    <ogr:Lon>-112.07662</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.43532" lon="-112.29793">
+  <extensions>
+    <ogr:Index>163</ogr:Index>
+    <ogr:Day_Number>36</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Cashion, AZ</ogr:Where>
+    <ogr:Lat>33.43532</ogr:Lat>
+    <ogr:Lon>-112.29793</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.43532" lon="-112.29793">
+  <extensions>
+    <ogr:Index>164</ogr:Index>
+    <ogr:Day_Number>37</ogr:Day_Number>
+    <ogr:Date>Tue, Nov 23, 1926</ogr:Date>
+    <ogr:Where>Cashion, AZ</ogr:Where>
+    <ogr:Lat>33.43532</ogr:Lat>
+    <ogr:Lon>-112.29793</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.34838" lon="-112.72545">
+  <extensions>
+    <ogr:Index>165</ogr:Index>
+    <ogr:Day_Number>37</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Hassayampa, AZ</ogr:Where>
+    <ogr:Lat>33.34838</ogr:Lat>
+    <ogr:Lon>-112.72545</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.22918" lon="-112.76905">
+  <extensions>
+    <ogr:Index>166</ogr:Index>
+    <ogr:Day_Number>37</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Gilispie Dam, AZ</ogr:Where>
+    <ogr:Lat>33.22918</ogr:Lat>
+    <ogr:Lon>-112.76905</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.94457" lon="-112.72901">
+  <extensions>
+    <ogr:Index>167</ogr:Index>
+    <ogr:Day_Number>37</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Gila Bend, AZ</ogr:Where>
+    <ogr:Lat>32.94457</ogr:Lat>
+    <ogr:Lon>-112.72901</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.72671" lon="-113.7552">
+  <extensions>
+    <ogr:Index>168</ogr:Index>
+    <ogr:Day_Number>37</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Mohawk, AZ</ogr:Where>
+    <ogr:Lat>32.72671</ogr:Lat>
+    <ogr:Lon>-113.7552</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.72671" lon="-113.7552">
+  <extensions>
+    <ogr:Index>169</ogr:Index>
+    <ogr:Day_Number>38</ogr:Day_Number>
+    <ogr:Date>Wed, Nov 24, 1926</ogr:Date>
+    <ogr:Where>Mohawk, AZ</ogr:Where>
+    <ogr:Lat>32.72671</ogr:Lat>
+    <ogr:Lon>-113.7552</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.75532" lon="-114.36217">
+  <extensions>
+    <ogr:Index>170</ogr:Index>
+    <ogr:Day_Number>38</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Dome, AZ</ogr:Where>
+    <ogr:Lat>32.75532</ogr:Lat>
+    <ogr:Lon>-114.36217</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.72231" lon="-114.62084">
+  <extensions>
+    <ogr:Index>171</ogr:Index>
+    <ogr:Day_Number>38</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Yuma, AZ</ogr:Where>
+    <ogr:Lat>32.72231</ogr:Lat>
+    <ogr:Lon>-114.62084</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.76416" lon="-115.27058">
+  <extensions>
+    <ogr:Index>172</ogr:Index>
+    <ogr:Day_Number>38</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Holtville, CA</ogr:Where>
+    <ogr:Lat>32.76416</ogr:Lat>
+    <ogr:Lon>-115.27058</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.76416" lon="-115.27058">
+  <extensions>
+    <ogr:Index>173</ogr:Index>
+    <ogr:Day_Number>39</ogr:Day_Number>
+    <ogr:Date>Thu, Nov 25, 1926</ogr:Date>
+    <ogr:Where>Holtville, CA</ogr:Where>
+    <ogr:Lat>32.76416</ogr:Lat>
+    <ogr:Lon>-115.27058</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="32.81098" lon="-115.38078">
+  <extensions>
+    <ogr:Index>174</ogr:Index>
+    <ogr:Day_Number>39</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Holtville, CA</ogr:Where>
+    <ogr:Lat>32.81098</ogr:Lat>
+    <ogr:Lon>-115.38078</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.07248" lon="-115.73915">
+  <extensions>
+    <ogr:Index>175</ogr:Index>
+    <ogr:Day_Number>39</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Kane Spring, CA</ogr:Where>
+    <ogr:Lat>33.07248</ogr:Lat>
+    <ogr:Lon>-115.73915</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.10949" lon="-115.83667">
+  <extensions>
+    <ogr:Index>176</ogr:Index>
+    <ogr:Day_Number>39</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Kane Spring, CA</ogr:Where>
+    <ogr:Lat>33.10949</ogr:Lat>
+    <ogr:Lon>-115.83667</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.67912" lon="-116.17596">
+  <extensions>
+    <ogr:Index>177</ogr:Index>
+    <ogr:Day_Number>39</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Coachella, CA</ogr:Where>
+    <ogr:Lat>33.67912</ogr:Lat>
+    <ogr:Lon>-116.17596</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.67912" lon="-116.17596">
+  <extensions>
+    <ogr:Index>178</ogr:Index>
+    <ogr:Day_Number>40</ogr:Day_Number>
+    <ogr:Date>Fri, Nov 26, 1926</ogr:Date>
+    <ogr:Where>Coachella, CA</ogr:Where>
+    <ogr:Lat>33.67912</ogr:Lat>
+    <ogr:Lon>-116.17596</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.71971" lon="-116.2194">
+  <extensions>
+    <ogr:Index>179</ogr:Index>
+    <ogr:Day_Number>40</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Indio, CA</ogr:Where>
+    <ogr:Lat>33.71971</ogr:Lat>
+    <ogr:Lon>-116.2194</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.92544" lon="-116.87584">
+  <extensions>
+    <ogr:Index>180</ogr:Index>
+    <ogr:Day_Number>40</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Banning, CA</ogr:Where>
+    <ogr:Lat>33.92544</ogr:Lat>
+    <ogr:Lon>-116.87584</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.92939" lon="-116.9751">
+  <extensions>
+    <ogr:Index>181</ogr:Index>
+    <ogr:Day_Number>40</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Beaumont, CA</ogr:Where>
+    <ogr:Lat>33.92939</ogr:Lat>
+    <ogr:Lon>-116.9751</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.98007" lon="-117.37592">
+  <extensions>
+    <ogr:Index>182</ogr:Index>
+    <ogr:Day_Number>40</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Riverside, CA</ogr:Where>
+    <ogr:Lat>33.98007</ogr:Lat>
+    <ogr:Lon>-117.37592</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.98007" lon="-117.37592">
+  <extensions>
+    <ogr:Index>183</ogr:Index>
+    <ogr:Day_Number>41</ogr:Day_Number>
+    <ogr:Date>Sat, Nov 27, 1926</ogr:Date>
+    <ogr:Where>Riverside, CA</ogr:Where>
+    <ogr:Lat>33.98007</ogr:Lat>
+    <ogr:Lon>-117.37592</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.83337" lon="-117.91304">
+  <extensions>
+    <ogr:Index>184</ogr:Index>
+    <ogr:Day_Number>41</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Anaheim, CA</ogr:Where>
+    <ogr:Lat>33.83337</ogr:Lat>
+    <ogr:Lon>-117.91304</ogr:Lon>
+  </extensions>
+</wpt>
+<wpt lat="33.76929" lon="-118.18634">
+  <extensions>
+    <ogr:Index>185</ogr:Index>
+    <ogr:Day_Number>41</ogr:Day_Number>
+    <ogr:Date></ogr:Date>
+    <ogr:Where>Long Beach, CA</ogr:Where>
+    <ogr:Lat>33.76929</ogr:Lat>
+    <ogr:Lon>-118.18634</ogr:Lon>
+  </extensions>
+</wpt>
+</gpx>
