@@ -1,4 +1,4 @@
-
+---
 Markdown Version History  
 
   - Fri, Feb 14 @ 09:40 - Removed sub-heading marks in the frontmatter so it does not create a document. 
@@ -8,7 +8,6 @@ Markdown Version History
   - Sat, Feb 8 @ 12:00  - Paragraph breaks added, gleaning place names and coordinates
   - Sat, Feb 8 @ 10:00  - PDF converted to .md and section headings added.
 
----
 title: McFate-Travel-Diary
 ---
 
