@@ -1,14 +1,14 @@
 ---
-Markdown Version History  
-
-  - Fri, Feb 14 @ 09:40 - Removed sub-heading marks in the frontmatter so it does not create a document. 
-  - Tue, Feb 11 @ 22:28 - A few grammar edits: distances -> distance OR distant, and spell check first half of the document
-  - Tue, Feb 11 @ 21:00 - Ensured 2nd-level headings match Google Sheet column 'A' values
-  - Sat, Feb 8 @ 16:00  - More breaks added, some place names corrected per Apple map spelling
-  - Sat, Feb 8 @ 12:00  - Paragraph breaks added, gleaning place names and coordinates
-  - Sat, Feb 8 @ 10:00  - PDF converted to .md and section headings added.
-
 title: McFate-Travel-Diary
+
+# Markdown Version History  [ make sure lines below are # comments! ] 
+#
+#   - Fri, Feb 14 @ 09:40 - Removed sub-heading marks in the frontmatter so it does not create a document. 
+#   - Tue, Feb 11 @ 22:28 - A few grammar edits... distances -> distance OR distant, and spell check first half of the document
+#   - Tue, Feb 11 @ 21:00 - Ensured 2nd-level headings match Google Sheet column 'A' values
+#   - Sat, Feb 8 @ 16:00  - More breaks added, some place names corrected per Apple map spelling
+#   - Sat, Feb 8 @ 12:00  - Paragraph breaks added, gleaning place names and coordinates
+#   - Sat, Feb 8 @ 10:00  - PDF converted to .md and section headings added.
 ---
 
 ## Intro
