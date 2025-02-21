@@ -6,3 +6,8 @@ With the auto route traveling west, in a house built on a Ford with all modern c
 
 Following you will find each day drive as we journey on.
 
+&nbsp;&nbsp;&nbsp;&nbsp;- *Miriam Abia McFate*
+
+![The McFate Farmstead](/objects/SheridanTownshipJPG-Cropped-Highlighted.jpg)  
+*Research suggests their journey began from the S. (Samuel) McFate parcel highlighted here in a 1927 Sheridan Township property map.*
+
