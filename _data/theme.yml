@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: https://summittservices.blob.core.windows.net/1926/United_States_System_of_Highways_Adopted_for_Uniform_Marking_by_the_American_Association_of_State_Highway_Officials-with-BOLD-Route.png
+featured-image: https://summittservices.blob.core.windows.net/1926/United_States_System_of_Highways_Adopted_for_Uniform_Marking_by_the_American_Association_of_State_Highway_Officials-with-BOLD-Route-CROPPED.png
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
