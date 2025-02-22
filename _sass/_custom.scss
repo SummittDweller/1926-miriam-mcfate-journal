@@ -2,3 +2,18 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+#home-banner-logo {
+  height: 90px;
+}
+
+.display-4 {
+font-weight: 500;
+}  
+
+#tagline {
+font-weight: 500;
+font-size: 1.25em;
+padding-left: .5em;
+padding-right: .5em;
+}
