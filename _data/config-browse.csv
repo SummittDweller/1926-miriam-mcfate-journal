@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
+index,Index,,,Index
 creator,Creator,,,
 subject,,true,,
 location,,true,,
