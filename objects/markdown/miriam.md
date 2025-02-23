@@ -6,6 +6,6 @@ The journal's author, [Miriam Abia McFate](https://helge.mcfate.family/i00009), 
 
 ![Miriam and Her Sisters](/objects/small/miriam-tahash-and-sisters_sm.png)
 
-![Miriam Was An Award-Winning Artist](/objects/small/miriam-tahash-mcfate.png)
+![Miriam With Some of Her Award-Winning Embroidery](/objects/small/miriam-tahash-mcfate.png)
 *Miriam was an award-winning artist*
 
