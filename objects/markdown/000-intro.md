@@ -9,5 +9,8 @@ Following you will find each day drive as we journey on.
 &nbsp;&nbsp;&nbsp;&nbsp;- *Miriam Abia McFate*
 
 ![The McFate Farmstead](/objects/SheridanTownshipJPG-Cropped-Highlighted.jpg)  
-*Research suggests their journey began from the S. (Samuel) McFate parcel highlighted here in a 1927 Sheridan Township property map.*
+*Research suggests their journey began from the S. (Samuel) McFate parcel highlighted here in a 1927 Sheridan Township property map.  Scan courtesy of Grinnell College Libraries, Special Collections and Archives.*
+
+![Model T Central](https://summittservices.blob.core.windows.net/1926/xroadstercamper2.jpg.pagespeed.ic.QiVE5gG7ZN.jpg)  
+*This image is NOT from the trip, but it is representative of the time so the McFate's 1926 scene may have been quite similar. Image courtesy of [Model T Central](https://www.modeltcentral.com/model-t-ford-campers.html).*
 
