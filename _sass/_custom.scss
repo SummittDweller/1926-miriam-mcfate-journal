@@ -17,3 +17,11 @@ font-size: 1.25em;
 padding-left: .5em;
 padding-right: .5em;
 }
+
+body {
+  background-color: whitesmoke;
+}
+
+div.item > div > a > img {
+  max-height: 400px;
+}
