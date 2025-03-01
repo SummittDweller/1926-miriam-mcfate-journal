@@ -14,7 +14,9 @@ credits: true
 
 # Miriam McFate's 1926 Travel Journal
 
-In 1926 my grandparents, Clarence and Miriam Abia McFate of rural Poweshiek County, Iowa, built a 'home' on the back of what I believe was a Model TT Ford truck, and moved the family (3 adults, 5 children and a dog) to Long Beach, California. They traveled 2800+ miles over the span of 41 days, about 35 of those moving from camp-to-camp. This collection is grandma's daily journal plus whatever supporting material I could dig up.
+In 1926 my grandparents, Clarence and Miriam Abia McFate of rural Poweshiek County, Iowa, built a 'home' on the back of what I believe was a Model TT Ford truck, and moved the family (3 adults, 5 children and a dog) to Long Beach, California. They traveled 2800+ miles over the span of 41 days, about 35 of those moving from camp-to-camp. This collection is grandma's daily journal plus whatever supporting material I could dig up on short notice.  
+
+My work on this project is also preparation for the publication of excerpts from the journal which will appear in the Spring 2025 edition of [*Rootstalk - A Prairie Journal of Culture, Science, and the Arts*](https://rootstalk.grinnell.edu).  
 
 Be advised, this is a work-in-progress and still contains language that may be offensive to some. My grandmother meant no harm so please don't be offended; I will try my best to faithfully sanitize the language as this collection comes together.
 
