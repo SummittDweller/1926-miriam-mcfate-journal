@@ -1,0 +1,3 @@
+site: _site
+output-subdir: _pagefind
+split_pages_on: "h2"

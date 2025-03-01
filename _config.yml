@@ -73,3 +73,8 @@ exclude: [docs/, Rakefile, rakelib/, README.md, LICENSE, CITATION.cff, CODE_OF_C
 # compress CSS output
 sass:
   style: compressed
+
+# Below added per https://ib.bsb.br/pagefind-with-jekyll/
+plugins:
+  - ./_plugins/pagefind.rb
+
