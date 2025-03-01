@@ -7,6 +7,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "bundle exec jekyll serve"
+    "test": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "azure:build": "bundle exec jekyll build"
   }
 }
+
