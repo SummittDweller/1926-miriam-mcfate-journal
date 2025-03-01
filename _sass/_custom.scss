@@ -25,3 +25,45 @@ body {
 div.item > div > a > img {
   max-height: 400px;
 }
+
+/* Pagefind UI control */
+
+div #search {
+  position: relative;
+  margin-right: 2rem;
+}
+
+.pagefind-ui {
+  display: inline-block;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.pagefind-ui__search-input {
+  font-size: calc(28px * var(--pagefind-ui-scale)) !important;
+  background-color: var(--pagefind-ui-background) !important;
+}
+
+.pagefind-ui__search-clear {
+  font-size: calc(28px * var(--pagefind-ui-scale)) !important;
+  background-color: var(--pagefind-ui-background) !important;
+}  
+
+p.pagefind-ui__message {
+  font-size: calc(28px * var(--pagefind-ui-scale)) !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.pagefind-ui__result {
+  padding: 0 !important;
+}
+
+.pagefind-ui__result-excerpt, .pagefind-ui__result-title {
+  font-size: calc(28px * var(--pagefind-ui-scale)) !important;
+}  
+
+.pagefind-ui__result-image { 
+  margin-left: 10px;
+  margin-right: 10px;
+}
