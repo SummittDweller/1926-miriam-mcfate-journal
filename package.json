@@ -1,0 +1,12 @@
+{
+  "name": "pagefind",
+  "version": "1.0.0",
+  "description": "My npm-wrapped Miriam McFate 1926 travel journal CollectionBuilder site",
+  "license": "ISC",
+  "author": "Mark McFate",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "bundle exec jekyll serve"
+  }
+}
