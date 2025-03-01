@@ -1,7 +1,7 @@
 {
-  "name": "pagefind",
+  "name": "1926-miriam-mcfate-journal",
   "version": "1.0.0",
-  "description": "My npm-wrapped Miriam McFate 1926 travel journal CollectionBuilder site",
+  "description": "My npm-wrapped Miriam McFate 1926 travel journal CollectionBuilder site with Pagefind!",
   "license": "ISC",
   "author": "Mark McFate",
   "type": "commonjs",
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "bundle install; bundle exec jekyll serve",
     "build": "bundle install; bundle exec jekyll build",
-    "azure:build": "bundle install; bundle exec jekyll build"
+    "azure:build": "bundle install; bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
+  },
+  "dependencies": {
+    "pagefind": "^1.2.0"
   }
 }
 
