@@ -4,6 +4,7 @@
 
 | Link | Description |  
 | ---  | ---         |  
+| https://grinco-my.sharepoint.com/:w:/r/personal/mcfatem_grinnell_edu/Documents/1926-McFate-Travel-Journal/1926-McFate-Travel-Journal-MASTER.docx?d=w254c7234f3aa4b6ba911b0121388a389&csf=1&web=1&e=AbhjHH | Roostalk MASTER edit/comment copy |
 | https://docs.google.com/spreadsheets/d/1U3OwrqB4REQCl1Y5KeptNndcwdGUBnHlz2bKl2S-xug/edit?gid=0#gid=0 | My original McFate-Travel-Diary Google Sheet |
 | https://thankful-sea-06fcb2e0f.4.azurestaticapps.net/ | `main` branch deployed to Azure Static Web Apps |  
 | https://mcfate.blob.core.windows.net/1926/ | Azure blog storage URL |
