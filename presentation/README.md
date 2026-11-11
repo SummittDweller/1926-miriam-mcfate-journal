@@ -13,7 +13,7 @@ Both also show the requested contact sentence beneath the sources, centered
 horizontally.
 
 The illustrated edition was also uploaded as a separate
-[Google Slides deck](https://docs.google.com/presentation/d/1WAjGrFXx17NM6UXau86mzpvkqQ3tt1GF1RyYPK55ppM/edit),
+[Google Slides deck](https://docs.google.com/presentation/d/1kMG349mFSzrhZgSYDtnKtbVsU3SRlBfNJ_J5ON5znLA/edit),
 leaving the earlier deck unchanged. This cloud copy does not automatically
 refresh when the local deck is rebuilt. This is the corrected 22-point edition
 with all 15 journal pullquotes, centered footer links, day-specific Rootstalk
@@ -25,7 +25,11 @@ veterans for their service. Centered birthday wishes appear at the bottom,
 including the presenter's requested recognition of Ron's Navy service.
 Editable U.S. flags flank the heading, and colorful balloon clusters frame the
 birthday message without covering the text.
-The original journey cover follows this splash; all later slides retain their
+The journey cover follows this splash, with Rootstalk's original
+`1926-header-image.png` across the page as an uncropped, clickable banner
+in place of the cover's Sheridan map. The map remains on its dedicated slide.
+The header's embedded wording is preserved as published artwork.
+All later slides retain their
 relative order.
 
 ## Rootstalk pullquotes
@@ -57,7 +61,7 @@ Single links are centered too, including on quote and illustration slides.
 The illustrated slides include all seven historical family photographs in
 the Rootstalk article, its representative period camper image, its highlighted
 1926 highway map, and the repository's 1927 Sheridan Township parcel map.
-The article's decorative header and author portraits are not included.
+The article's header appears on the journey cover; author portraits are not included.
 
 Each illustration has a complete, editable published caption, a separate
 editorial annotation, source and full-size-image links, and credit/provenance

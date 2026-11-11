@@ -38,7 +38,8 @@ class PresentationTests(unittest.TestCase):
             + [slide for slide in cls.presentation.slides
                if any(shape.name.startswith(("Rootstalk pullquote:", "Foreword excerpt:"))
                       for shape in slide.shapes)]
-            + [cls.presentation.slides[0], cls.presentation.slides[2], cls.presentation.slides[-1]]
+            + [cls.presentation.slides[0], cls.presentation.slides[1],
+               cls.presentation.slides[2], cls.presentation.slides[-1]]
         )
 
     def test_all_days_and_parts_survive_round_trip(self):
@@ -334,6 +335,27 @@ class PresentationTests(unittest.TestCase):
                 if illustration.credit.startswith("McFate family"):
                     self.assertIn("handwritten on the verso", notes)
                     self.assertIn(f"{deck.ROOTSTALK_URL}#endnote1", notes)
+
+    def test_journey_cover_uses_complete_rootstalk_banner_instead_of_parcel_map(self):
+        slide = self.presentation.slides[1]
+        pictures = [shape for shape in slide.shapes if shape.shape_type == MSO_SHAPE_TYPE.PICTURE]
+        self.assertEqual(len(pictures), 1)
+        banner = pictures[0]
+        self.assertEqual(banner.name, "Rootstalk cover banner")
+        self.assertEqual(
+            banner.image.blob,
+            (deck.ROOT / "presentation/images/1926-header-image.png").read_bytes(),
+        )
+        self.assertEqual((banner.crop_left, banner.crop_right, banner.crop_top, banner.crop_bottom), (0, 0, 0, 0))
+        self.assertAlmostEqual(banner.width / banner.height, 1357 / 450, places=5)
+        self.assertGreater(banner.width / 914400, 12)
+        self.assertLessEqual(abs(2 * banner.left + banner.width - self.presentation.slide_width), 1)
+        self.assertEqual(banner.click_action.hyperlink.address, deck.ROOTSTALK_URL)
+        self.assertIn("1926-header-image.png", slide.notes_slide.notes_text_frame.text)
+        self.assertTrue(any(
+            shape.name == "Illustration: starting-point-map"
+            for candidate in self.presentation.slides for shape in candidate.shapes
+        ))
 
     def test_photographs_follow_corresponding_diary_entries(self):
         latest_day = None

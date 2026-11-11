@@ -502,66 +502,61 @@ def add_veterans_slide(prs):
 
 def add_cover(prs):
     slide = blank_slide(prs, "100 YEARS")
-    add_box(slide, 0.62, 0.66, 0.12, 5.95, GOLD, radius=False)
-    add_text(slide, "A FAMILY ROAD WEST", 1.08, 0.9, 6.25, 0.4, size=14, color=RUST, bold=True)
+    add_text(slide, "A FAMILY ROAD WEST", 0.7, 0.35, 11.93, 0.3, size=14, color=RUST, bold=True)
     add_text(
         slide,
-        "Miriam McFate’s\n1926 journey",
-        1.05,
-        1.55,
-        6.45,
-        2.05,
-        size=42,
+        "Miriam McFate’s 1926 journey",
+        0.7,
+        0.85,
+        11.93,
+        0.65,
+        size=34,
         color=INK,
         font="Georgia",
         bold=True,
     )
+    banner_url = "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/1926-header-image.png"
+    picture = slide.shapes.add_picture(
+        str(ROOT / "presentation" / "images" / "1926-header-image.png"),
+        Inches(0.65), Inches(1.7), width=Inches(SLIDE_W - 1.3),
+    )
+    picture.name = "Rootstalk cover banner"
+    picture._element.nvPicPr.cNvPr.set(
+        "descr", "Rootstalk article header: 1926 highway map, Miriam's portrait, "
+        "and the published journal title and subtitle.",
+    )
+    picture.click_action.hyperlink.address = ROOTSTALK_URL
     add_text(
         slide,
         "Iowa to California in a Ford—one day, one mile, one repair at a time.",
-        1.1,
-        3.88,
-        5.75,
-        0.8,
-        size=20,
+        0.7,
+        5.98,
+        11.93,
+        0.4,
+        size=18,
         color=GREEN,
     )
     add_text(
         slide,
         "A century later · November 11, 2026",
-        1.1,
-        5.25,
-        5.5,
+        0.7,
+        6.5,
+        11.93,
         0.38,
         size=16,
         color=RUST,
         bold=True,
     )
-    map_path = ROOT / "objects" / "SheridanTownshipJPG-Cropped-Highlighted.jpg"
-    if map_path.exists():
-        picture = slide.shapes.add_picture(
-            str(map_path), Inches(7.55), Inches(1.0), width=Inches(4.9)
-        )
-        picture.left = Inches(7.55)
-        picture.top = Inches(1.0)
-    add_text(
-        slide,
-        "1927 Sheridan Township map; highlighted parcel is a research-supported possible starting point.\n"
-        "Grinnell College Libraries, Special Collections and Archives.",
-        7.55,
-        6.05,
-        4.95,
-        0.62,
-        size=10,
-        color=MUTED,
-    )
     add_notes(
         slide,
         "Presentation date: November 11, 2026. The diary covers October 18 through "
         "November 27, 1926. The title does not claim November 11 was the exact "
-        "midpoint; see the route overview. The highlighted map is in the repository "
-        "and its source caption in objects/markdown/000-intro.md credits Grinnell "
-        "College Libraries, Special Collections and Archives.",
+        "midpoint; see the route overview. The complete Rootstalk header image "
+        "is reproduced without cropping or retouching; its embedded wording is "
+        "part of the published artwork. The Sheridan Township map remains on "
+        "its dedicated illustrated slide.\n"
+        f"Banner image: {banner_url}\n"
+        f"Source: {ROOTSTALK_URL}",
     )
     return slide
 
