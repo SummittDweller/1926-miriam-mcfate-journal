@@ -1,0 +1,112 @@
+[
+  {
+    "id": "representative-camper",
+    "title": "A Ford fitted for camp life",
+    "placement": "family",
+    "image": "presentation/images/representative-camper.jpg",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/xroadstercamper2.jpg.pagespeed.ic.QiVE5gG7ZN.jpg",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#monday-october-18-1926",
+    "caption": "This 1926 image from https://www.modeltcentral.com/model-t-ford-campers.html is NOT a photo of the McFate party, but it depicts somewhat how I imagine they traveled and camped along the route.",
+    "annotation": "Representative period illustration only; not the McFate family or their actual vehicle.",
+    "credit": "Image courtesy of Model T Central, as reproduced in Rootstalk.",
+    "credit_url": "https://www.modeltcentral.com/model-t-ford-campers.html"
+  },
+  {
+    "id": "undated-children",
+    "title": "Three children, an unidentified stop",
+    "placement": "family",
+    "image": "presentation/images/undated-children.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/24-recto-p38.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#afterword",
+    "caption": "Left to right: Delmar, Velma and Beulah. Date and location are unknown, but the terrain and vegetation reminded me of portions of Iowa, Illinois or Missouri.",
+    "annotation": "Undated photograph: placed here to introduce the children, not to assign it to a particular day's journey.",
+    "credit": "McFate family photograph; published in Rootstalk."
+  },
+  {
+    "id": "starting-point-map",
+    "title": "Where the journey may have begun",
+    "placement": "route",
+    "image": "objects/SheridanTownshipJPG-Cropped-Highlighted.jpg",
+    "source_url": "https://1926.mcfate.family/items/intro.html",
+    "caption": "Research suggests their journey began from the S. (Samuel) McFate parcel highlighted here in a 1927 Sheridan Township property map. Scan courtesy of Grinnell College Libraries, Special Collections and Archives.",
+    "annotation": "The highlighted parcel is a research-supported possible starting point, not a confirmed departure location. The map dates to 1927, one year after the journey.",
+    "credit": "Grinnell College Libraries, Special Collections and Archives."
+  },
+  {
+    "id": "1926-route-map",
+    "title": "The journey on a 1926 highway map",
+    "placement": "route",
+    "image": "presentation/images/1926-route-map.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/United_States_System_of_Highways_Adopted_for_Uniform_Marking_by_the_American_Association_of_State_Highway_Officials-with-BOLD-Route-CROPPED.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#thursday-october-21-1926",
+    "caption": "1926 US Highway Map showing the route.",
+    "annotation": "The highlighted route is retained exactly as published. Open the full-size image to inspect highway labels and the route in detail.",
+    "credit": "1926 US Highway Map with route overlay, reproduced from Rootstalk."
+  },
+  {
+    "id": "forest-park-children",
+    "title": "The children at Forest Park",
+    "placement": "day-10",
+    "image": "presentation/images/forest-park-children.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/25-recto-p13.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#wednesday-october-27-1926",
+    "caption": "Photo in St. Louis’s Forest Park.  Left to Right: Beulah, cousins Francis (age 1) and Hazel (age 6), Delmar, and Velma.",
+    "annotation": "A family photograph from the St. Louis visit, shown alongside the October 27 park outing.",
+    "credit": "McFate family photograph; published in Rootstalk."
+  },
+  {
+    "id": "zoo-bear",
+    "title": "The bear that held his toes",
+    "placement": "day-10",
+    "image": "presentation/images/zoo-bear.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/13-recto-p13.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#wednesday-october-27-1926",
+    "caption": "At the St. Louis Zoo. Notice the bear that has a hold of his toes.  We had been throwing bread to them.  They would sit up and beg.  When we didn’t pay much attention to them, they would perform and try to attract our attention.  That was the way I caught this one.",
+    "annotation": "The original caption's first-person wording is retained. Photo and caption provenance is recorded in the speaker notes.",
+    "credit": "McFate family photograph and caption; published in Rootstalk."
+  },
+  {
+    "id": "mississippi-landing",
+    "title": "A landing on the Mississippi",
+    "placement": "day-11",
+    "image": "presentation/images/mississippi-landing.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/23-recto-p14.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#thursday-october-28-1926",
+    "caption": "‘This was taken along the Mississippi River. These men just came across in a motor boat and I took this just as they were landing. This was a wonderful sight. We could see from the place where we were standing where the Missouri River entered into the Mississippi.  The dark place on the other side where I marked the arrow was an island.’",
+    "annotation": "The caption's reference to a marked arrow is retained. The complete scan is shown without cropping or removing any original marks.",
+    "credit": "McFate family photograph and caption; published in Rootstalk."
+  },
+  {
+    "id": "delmar-and-dallas",
+    "title": "Delmar and the newest traveler",
+    "placement": "day-25",
+    "image": "presentation/images/delmar-and-dallas.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/03-recto-p31.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#november-5-23-1926---arkansas-texas-new-mexico-and-arizona",
+    "caption": "Delmar sitting on a fence rail holding Dallas, the pup that Kenneth found in a gunny sack.",
+    "annotation": "Shown after the November 11 puppy story. The caption identifies Delmar and Dallas but does not establish when or where this photograph was taken.",
+    "credit": "McFate family photograph; published in Rootstalk."
+  },
+  {
+    "id": "texas-road",
+    "title": "What the road could look like",
+    "placement": "day-29",
+    "image": "presentation/images/texas-road.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/21-recto-p37.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#november-5-23-1926---arkansas-texas-new-mexico-and-arizona",
+    "caption": "This photo was noted as taken on November 15, presumably near Odessa, TX.  Perhaps this is indicative of the route’s condition in many areas?",
+    "annotation": "November 15 is the recorded date; the location near Odessa is presumed, not verified.",
+    "credit": "McFate family photograph; published in Rootstalk."
+  },
+  {
+    "id": "texas-children",
+    "title": "Four children beside the Texas road",
+    "placement": "day-29",
+    "image": "presentation/images/texas-children.png",
+    "image_url": "https://rootstalk.blob.core.windows.net/rootstalk-2025-spring/11-recto-p38.png",
+    "source_url": "https://rootstalk.grinnell.edu/issues/volume-xi-issue-1/mcfate/#november-5-23-1926---arkansas-texas-new-mexico-and-arizona",
+    "caption": "This photo, presumably taken November 15 near Odessa, TX, appears to include Beulah and Delmar seated in the foreground, with Kenneth and Velma standing behind.",
+    "annotation": "The date, location, and identifications remain tentative, as indicated by the published caption.",
+    "credit": "McFate family photograph; published in Rootstalk."
+  }
+]

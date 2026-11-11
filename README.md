@@ -16,6 +16,14 @@
 bundle exec jekyll serve
 ```
 
+## Presentation
+
+The [editable journey deck](presentation/mcfate-1926-journey.pptx) can be opened
+in Keynote or imported into Google Slides without PowerPoint. It includes
+expanded diary highlights, continuation slides, and clickable links to each
+day on the source website. See the [presentation guide](presentation/README.md)
+for rebuilding, future edits, and switching between the slideshow and sources.
+
 ## CSV Fields
 
 CSV field documentation can be found at https://collectionbuilder.github.io/cb-docs/docs/metadata/csv_metadata/#collectionbuilder-csv-metadata.  
