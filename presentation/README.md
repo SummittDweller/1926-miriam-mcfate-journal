@@ -2,7 +2,7 @@
 
 `mcfate-1926-journey.pptx` is an editable widescreen presentation that opens in
 Keynote and can be imported into Google Slides without a PowerPoint license.
-The current deck has 97 slides: three opening slides, 62 diary-summary slides
+The current deck has 98 slides: a Veterans Day splash slide, three opening slides, 62 diary-summary slides
 covering all 41 dated entries, all 15 Rootstalk journal pullquotes, five
 separately labeled foreword excerpts, ten illustrated
 slides, and matching information-source slides immediately after the cover
@@ -13,12 +13,20 @@ Both also show the requested contact sentence beneath the sources, centered
 horizontally.
 
 The illustrated edition was also uploaded as a separate
-[Google Slides deck](https://docs.google.com/presentation/d/1DwWAinMLrtXtQby3cLWOhdWqZtvfAVkhvULiFE0bLfY/edit),
+[Google Slides deck](https://docs.google.com/presentation/d/1WAjGrFXx17NM6UXau86mzpvkqQ3tt1GF1RyYPK55ppM/edit),
 leaving the earlier deck unchanged. This cloud copy does not automatically
 refresh when the local deck is rebuilt. This is the corrected 22-point edition
 with all 15 journal pullquotes, centered footer links, day-specific Rootstalk
 links, captioned photographs and maps,
-and information-source slides at positions 2 and 97.
+and information-source slides at positions 3 and 98.
+
+The opening splash uses editable red, white, and blue shapes and stars to thank
+veterans for their service. Centered birthday wishes appear at the bottom,
+including the presenter's requested recognition of Ron's Navy service.
+Editable U.S. flags flank the heading, and colorful balloon clusters frame the
+birthday message without covering the text.
+The original journey cover follows this splash; all later slides retain their
+relative order.
 
 ## Rootstalk pullquotes
 

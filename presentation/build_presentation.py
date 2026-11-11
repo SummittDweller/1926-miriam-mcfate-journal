@@ -414,6 +414,92 @@ def blank_slide(prs, label):
     return slide
 
 
+def add_veterans_slide(prs):
+    navy = RGBColor(20, 43, 76)
+    red = RGBColor(174, 42, 52)
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    add_background(slide, navy)
+    for y, color in ((0, red), (0.18, WHITE), (7.14, WHITE), (7.32, red)):
+        add_box(slide, 0, y, SLIDE_W, 0.18, color, radius=False)
+    for x in (4.72, 5.57, 6.42, 7.27, 8.12):
+        star = slide.shapes.add_shape(
+            MSO_SHAPE.STAR_5_POINT, Inches(x), Inches(0.78),
+            Inches(0.48), Inches(0.48),
+        )
+        star.fill.solid()
+        star.fill.fore_color.rgb = WHITE
+        star.line.fill.background()
+    for side, x in (("left", 0.6), ("right", SLIDE_W - 1.85)):
+        flag = slide.shapes.add_group_shape()
+        flag.name = f"US flag: {side}"
+        for stripe in range(13):
+            add_box(
+                flag, x, 1.65 + stripe * 0.66 / 13, 1.25, 0.66 / 13,
+                red if stripe % 2 == 0 else WHITE, radius=False,
+            )
+        add_box(flag, x, 1.65, 0.5, 0.66 * 7 / 13, navy, radius=False)
+        for row in range(9):
+            for column in range(6 if row % 2 == 0 else 5):
+                star = flag.shapes.add_shape(
+                    MSO_SHAPE.STAR_5_POINT,
+                    Inches(x + 0.025 + column * 0.079 + (0.0395 if row % 2 else 0)),
+                    Inches(1.67 + row * 0.037), Inches(0.047), Inches(0.03),
+                )
+                star.fill.solid()
+                star.fill.fore_color.rgb = WHITE
+                star.line.fill.background()
+    add_text(
+        slide, "HONORING OUR VETERANS", 2.0, 1.65, SLIDE_W - 4.0, 0.75,
+        size=38, font="Georgia", bold=True, color=WHITE, align=PP_ALIGN.CENTER,
+    )
+    add_text(
+        slide, "Veterans Day  ·  November 11, 2026",
+        0.65, 2.65, SLIDE_W - 1.3, 0.45,
+        size=22, font="Arial", color=WHITE, align=PP_ALIGN.CENTER,
+    )
+    add_text(
+        slide, "To all who have served: thank you for your service,\n"
+        "your sacrifice, and your dedication to our country.",
+        0.95, 3.5, SLIDE_W - 1.9, 1.0,
+        size=25, font="Arial", color=WHITE, align=PP_ALIGN.CENTER,
+    )
+    add_box(slide, 0.85, 5.15, SLIDE_W - 1.7, 1.6, WHITE)
+    for side, x in (("left", 1.0), ("right", SLIDE_W - 2.0)):
+        balloons = slide.shapes.add_group_shape()
+        balloons.name = f"Birthday balloons: {side}"
+        for offset, y, color in ((0, 5.5, red), (0.3, 5.26, RGBColor(40, 105, 181)),
+                                 (0.6, 5.55, GOLD)):
+            center = x + offset + 0.19
+            add_box(balloons, center, y + 0.47, 0.012, 6.55 - y - 0.47, MUTED, radius=False)
+            knot = balloons.shapes.add_shape(
+                MSO_SHAPE.ISOSCELES_TRIANGLE, Inches(center - 0.045),
+                Inches(y + 0.45), Inches(0.09), Inches(0.1),
+            )
+            knot.fill.solid()
+            knot.fill.fore_color.rgb = color
+            knot.line.fill.background()
+            balloon = balloons.shapes.add_shape(
+                MSO_SHAPE.OVAL, Inches(x + offset), Inches(y), Inches(0.38), Inches(0.5),
+            )
+            balloon.fill.solid()
+            balloon.fill.fore_color.rgb = color
+            balloon.line.fill.background()
+    add_text(
+        slide, "Happy birthday to my sister-in-law, Lucy!",
+        2.15, 5.4, SLIDE_W - 4.3, 0.4,
+        size=23, font="Arial", bold=True, color=navy, align=PP_ALIGN.CENTER,
+    )
+    add_text(
+        slide, "An early happy birthday to my brother Ron for November 12!\n"
+        "And a special thank-you to Ron for his service as a Navy veteran.",
+        2.15, 5.98, SLIDE_W - 4.3, 0.62,
+        size=18, font="Arial", color=navy, align=PP_ALIGN.CENTER,
+    )
+    add_notes(slide, "Opening recognition for Veterans Day, November 11, 2026. "
+              "Birthday wishes and recognition of Ron's Navy service supplied by the presenter.")
+    return slide
+
+
 def add_cover(prs):
     slide = blank_slide(prs, "100 YEARS")
     add_box(slide, 0.62, 0.66, 0.12, 5.95, GOLD, radius=False)
@@ -901,6 +987,7 @@ def build():
     prs.core_properties.author = "Mark McFate"
     prs.core_properties.keywords = "Miriam McFate, 1926, road trip, family history"
 
+    add_veterans_slide(prs)
     add_cover(prs)
     add_sources_slide(prs)
     add_people_slide(prs)

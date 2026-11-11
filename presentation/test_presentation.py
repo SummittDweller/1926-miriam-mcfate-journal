@@ -9,6 +9,7 @@ from unittest.mock import patch
 from PIL import ImageFont
 from pptx import Presentation
 from pptx.enum.text import PP_ALIGN
+from pptx.enum.shapes import MSO_SHAPE_TYPE
 
 import build_presentation as deck
 
@@ -37,13 +38,13 @@ class PresentationTests(unittest.TestCase):
             + [slide for slide in cls.presentation.slides
                if any(shape.name.startswith(("Rootstalk pullquote:", "Foreword excerpt:"))
                       for shape in slide.shapes)]
-            + [cls.presentation.slides[1], cls.presentation.slides[-1]]
+            + [cls.presentation.slides[0], cls.presentation.slides[2], cls.presentation.slides[-1]]
         )
 
     def test_all_days_and_parts_survive_round_trip(self):
         self.assertEqual(
             len(self.presentation.slides),
-            10 + len(self.pullquotes) + len(self.illustrations) + sum(len(day.pages) for day in self.days),
+            11 + len(self.pullquotes) + len(self.illustrations) + sum(len(day.pages) for day in self.days),
         )
         expected = [
             (day, part, page)
@@ -133,7 +134,7 @@ class PresentationTests(unittest.TestCase):
                         positions[f"Diary highlights: day {day.number}, part {prior_part}"],
                     )
         self.assertEqual(
-            [name for name, position in positions.items() if 11 <= position <= 14],
+            [name for name, position in positions.items() if 12 <= position <= 15],
             ["Rootstalk pullquote: 1", "Diary highlights: day 3, part 1",
              "Rootstalk pullquote: 2", "Diary highlights: day 4, part 1"],
         )
@@ -145,7 +146,7 @@ class PresentationTests(unittest.TestCase):
         self.assertEqual(
             [index + 1 for index, slide in enumerate(self.presentation.slides)
              if any(shape.name.startswith("Foreword excerpt:") for shape in slide.shapes)],
-            [9, 21, 43, 60, 96],
+            [10, 22, 44, 61, 97],
         )
 
     def test_footer_links_are_one_centered_line_with_unlinked_separator(self):
@@ -213,7 +214,7 @@ class PresentationTests(unittest.TestCase):
         )
 
     def test_matching_source_slides_after_cover_and_at_end(self):
-        opening = self.presentation.slides[1]
+        opening = self.presentation.slides[2]
         closing = self.presentation.slides[-1]
         def contents(slide):
             return [shape.text for shape in slide.shapes if shape.has_text_frame]
@@ -248,6 +249,48 @@ class PresentationTests(unittest.TestCase):
         self.assertNotIn("Leave room for what the room adds", text)
         self.assertNotIn("Add notes here", text)
         self.assertNotIn("OPEN RESEARCH NOTES", text)
+
+    def test_veterans_recognition_is_first_with_birthday_wishes_at_bottom(self):
+        slide = self.presentation.slides[0]
+        text = "\n".join(shape.text for shape in slide.shapes if shape.has_text_frame)
+        for expected in (
+            "HONORING OUR VETERANS", "Veterans Day  ·  November 11, 2026",
+            "thank you for your service", "Happy birthday to my sister-in-law, Lucy!",
+            "An early happy birthday to my brother Ron for November 12!",
+            "Ron for his service as a Navy veteran",
+        ):
+            self.assertIn(expected, text)
+        for shape in slide.shapes:
+            if shape.has_text_frame and ("birthday" in shape.text or "Navy veteran" in shape.text):
+                self.assertGreater(shape.top / 914400, 5)
+                self.assertEqual(shape.text_frame.paragraphs[0].alignment, PP_ALIGN.CENTER)
+        stars = [
+            shape for shape in slide.shapes
+            if shape.shape_type == MSO_SHAPE_TYPE.AUTO_SHAPE
+            and shape.auto_shape_type == deck.MSO_SHAPE.STAR_5_POINT
+        ]
+        self.assertEqual(len(stars), 5)
+        flags = [shape for shape in slide.shapes if shape.name.startswith("US flag:")]
+        balloons = [shape for shape in slide.shapes if shape.name.startswith("Birthday balloons:")]
+        self.assertEqual(len(flags), 2)
+        self.assertEqual(len(balloons), 2)
+        for flag in flags:
+            self.assertEqual(sum(
+                shape.auto_shape_type == deck.MSO_SHAPE.STAR_5_POINT
+                for shape in flag.shapes
+            ), 50)
+        for cluster in balloons:
+            self.assertEqual(sum(
+                shape.auto_shape_type == deck.MSO_SHAPE.OVAL
+                for shape in cluster.shapes
+            ), 3)
+        heading = next(shape for shape in slide.shapes if shape.has_text_frame and shape.text == "HONORING OUR VETERANS")
+        self.assertLessEqual(flags[0].left + flags[0].width, heading.left)
+        self.assertGreaterEqual(flags[1].left, heading.left + heading.width)
+        self.assertTrue(any(
+            shape.has_text_frame and "Miriam McFate’s" in shape.text
+            for shape in self.presentation.slides[1].shapes
+        ))
 
     def test_illustrations_keep_complete_images_captions_and_annotations(self):
         self.assertEqual(len(self.illustrated_slides), len(self.illustrations))
