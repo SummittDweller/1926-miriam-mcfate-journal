@@ -18,7 +18,7 @@ function createEncoreSurvey() {
 
   form.setDescription(
     'You are invited to an encore presentation of the 1926 Miriam McFate ' +
-    'Travel Journal slide show, to be held at the Poweshiek County Historical ' +
+    'Travel Journal slide show, to be held at the Grinnell Historical ' +
     'Museum in Grinnell, Iowa. The program will begin at 5:30 PM on a weeknight ' +
     '(Monday-Thursday) between December 1 and December 17, 2026.\n\n' +
     'Please let us know if you are interested in attending and which dates ' +
